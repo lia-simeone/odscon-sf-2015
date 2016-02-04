@@ -31,3 +31,6 @@ The example he shows is standarizing data before using SVM.
 
 He has a video series on machine learning. And is writing a book.
 Andrea Mueller.
+
+He doesn' think "leave one out" dummies are unimportant for predictive modeling. 
+For linear models,  you should regularize your data e.g. ridge regression - penalty on the weights so coefficients are small.
